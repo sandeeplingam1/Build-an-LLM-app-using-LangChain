@@ -1,3 +1,4 @@
 [2024-01-10 16:00:00] Project initialization: Define RAG-based LLM architecture
 [2024-01-25 11:00:00] Set up core LangChain framework and dependency management
 [2024-02-09 12:00:00] Integrate OpenAI GPT-4 API and configure safety filters
+[2024-02-24 15:00:00] Implement RecursiveCharacterTextSplitter for document chunking
