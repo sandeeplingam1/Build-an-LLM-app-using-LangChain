@@ -3,3 +3,4 @@
 [2024-02-09 12:00:00] Integrate OpenAI GPT-4 API and configure safety filters
 [2024-02-24 15:00:00] Implement RecursiveCharacterTextSplitter for document chunking
 [2024-03-10 12:00:00] Design and implement vector store integration with Pinecone
+[2024-03-25 12:00:00] Develop custom PDF and URL document loading logic
