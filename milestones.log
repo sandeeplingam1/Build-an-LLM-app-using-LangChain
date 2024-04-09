@@ -4,3 +4,4 @@
 [2024-02-24 15:00:00] Implement RecursiveCharacterTextSplitter for document chunking
 [2024-03-10 12:00:00] Design and implement vector store integration with Pinecone
 [2024-03-25 12:00:00] Develop custom PDF and URL document loading logic
+[2024-04-09 15:00:00] Implement semantic search functionality using OpenAI Embeddings
