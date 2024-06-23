@@ -9,3 +9,4 @@
 [2024-05-09 10:00:00] Develop prompt engineering templates for specialized tasks
 [2024-05-24 09:00:00] Integrate LangSmith for performance tracing and debugging
 [2024-06-08 17:00:00] Implement hybrid search (semantic + keyword) for improved retrieval
+[2024-06-23 16:00:00] Feature: Implement source citation highlight in RAG responses
