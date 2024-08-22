@@ -13,3 +13,4 @@
 [2024-07-08 09:00:00] Refactor: Optimize vector database indexing and querying
 [2024-07-23 17:00:00] Develop Streamlit frontend for interactive model interaction
 [2024-08-07 15:00:00] Implement persistent session management and chat history
+[2024-08-22 17:00:00] Deploy: Containerize the application using Docker and Vite
